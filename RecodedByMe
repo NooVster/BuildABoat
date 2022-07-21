@@ -1,7 +1,7 @@
 if game.PlaceId == 537413528 then
    local PlaceId = game.PlaceId
 
-local Hub = loadstring(game:HttpGet("https://raw.githubusercontent.com/zachisfunny/BooHub/main/Boo"))()
+local Hub = loadstring(game:HttpGet("https://raw.githubusercontent.com/NooVster/HUB/main/Main"))()
 
 local UI = Hub.Load({
      Title = "Build A Boat GUI",
